@@ -56,6 +56,10 @@ public class Main {
                   }
                   System.out.println("");
               }
+          case 4:
+              System.exit(0);
+          default:
+              System.out.println("No choice!");
 
         }
     }
